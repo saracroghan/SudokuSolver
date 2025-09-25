@@ -1,6 +1,6 @@
 # AI Sudoku Solver
 
-This project explores and implements a variety of artificial intelligence algorithms to solve Sudoku puzzles. It serves as a powerful demonstration and comparison of classic **Constraint Satisfaction Problem (CSP)** techniques versus modern **heuristic** and **local search** methods.
+This project explores and implements a variety of artificial intelligence algorithms to solve Sudoku puzzles. It serves as a powerful demonstration and comparison of classic **Constraint Satisfaction Problem (CSP)** techniques versus modern **heuristic** and **local search** methods. Created with Jada Zorn.
 
 ---
 
